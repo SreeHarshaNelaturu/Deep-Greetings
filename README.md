@@ -1,2 +1,2 @@
 # Deep-Greetings
-we generate deep greeting cards for major festivals
+We generate deep greeting cards for major festivals.
